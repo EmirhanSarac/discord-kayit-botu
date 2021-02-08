@@ -1,2 +1,2 @@
-# discord-kayit-botu
+# Discord Kayıt Botu
 Discord Kayıt Botu Altyapısı
