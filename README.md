@@ -1,2 +1,2 @@
 # Discord Kayıt Botu
-Discord Kayıt Botu Altyapısı
+Discord Kayıt Botu Altyapısı v12
